@@ -1,0 +1,9 @@
+A conexão com a camara que se encontra em cima do Robot envolve duas aplicações:
+	1- Uma que crie uma camara por IP (DroidCam por exemplo)
+	2- Uma que crie camaras virtuais (ManyCam)
+
+1. Abra a Aplicação e clique OK deixando o texto vazio para iniciar em Modo de testes.(recomendado)
+2. Ou Escreva Algo para iniciar a Aplicação através de uma camara virtual.
+3. Apenas camaras com resolução 1280x720 são suportadas
+4. Recomenda-se que o SURF seja desactivado (embora se encontre implementado a drop na frame rate é
+inaceitavel)

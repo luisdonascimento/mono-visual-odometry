@@ -1,0 +1,63 @@
+C:\Users\Luis\Desktop\Projecto - Cópia\VisualOdometry.UI\bin\Release\VisualOdometry.UI.exe.config
+C:\Users\Luis\Desktop\Projecto - Cópia\VisualOdometry.UI\bin\Release\opencv_core290.dll
+C:\Users\Luis\Desktop\Projecto - Cópia\VisualOdometry.UI\bin\Release\opencv_imgproc290.dll
+C:\Users\Luis\Desktop\Projecto - Cópia\VisualOdometry.UI\bin\Release\VisualOdometry.UI.exe
+C:\Users\Luis\Desktop\Projecto - Cópia\VisualOdometry.UI\bin\Release\VisualOdometry.UI.pdb
+C:\Users\Luis\Desktop\Projecto - Cópia\VisualOdometry.UI\bin\Release\AsyncBridge.dll
+C:\Users\Luis\Desktop\Projecto - Cópia\VisualOdometry.UI\bin\Release\CameraCalibrator.Support.dll
+C:\Users\Luis\Desktop\Projecto - Cópia\VisualOdometry.UI\bin\Release\Emgu.CV.dll
+C:\Users\Luis\Desktop\Projecto - Cópia\VisualOdometry.UI\bin\Release\Emgu.CV.UI.dll
+C:\Users\Luis\Desktop\Projecto - Cópia\VisualOdometry.UI\bin\Release\Emgu.Util.dll
+C:\Users\Luis\Desktop\Projecto - Cópia\VisualOdometry.UI\bin\Release\Lego.Ev3.Desktop.dll
+C:\Users\Luis\Desktop\Projecto - Cópia\VisualOdometry.UI\bin\Release\VisualOdometry.dll
+C:\Users\Luis\Desktop\Projecto - Cópia\VisualOdometry.UI\bin\Release\ZedGraph.dll
+C:\Users\Luis\Desktop\Projecto - Cópia\VisualOdometry.UI\bin\Release\CameraCalibrator.Support.pdb
+C:\Users\Luis\Desktop\Projecto - Cópia\VisualOdometry.UI\bin\Release\Emgu.CV.pdb
+C:\Users\Luis\Desktop\Projecto - Cópia\VisualOdometry.UI\bin\Release\Emgu.CV.xml
+C:\Users\Luis\Desktop\Projecto - Cópia\VisualOdometry.UI\bin\Release\Emgu.CV.UI.pdb
+C:\Users\Luis\Desktop\Projecto - Cópia\VisualOdometry.UI\bin\Release\Emgu.CV.UI.xml
+C:\Users\Luis\Desktop\Projecto - Cópia\VisualOdometry.UI\bin\Release\Emgu.Util.pdb
+C:\Users\Luis\Desktop\Projecto - Cópia\VisualOdometry.UI\bin\Release\Emgu.Util.xml
+C:\Users\Luis\Desktop\Projecto - Cópia\VisualOdometry.UI\bin\Release\Lego.Ev3.Desktop.xml
+C:\Users\Luis\Desktop\Projecto - Cópia\VisualOdometry.UI\bin\Release\VisualOdometry.pdb
+C:\Users\Luis\Desktop\Projecto - Cópia\VisualOdometry.UI\bin\Release\ZedGraph.xml
+C:\Users\Luis\Desktop\Projecto - Cópia\VisualOdometry.UI\bin\Release\zh-CN\Emgu.CV.UI.resources.dll
+C:\Users\Luis\Desktop\Projecto - Cópia\VisualOdometry.UI\bin\Release\zh-CN\ZedGraph.resources.dll
+C:\Users\Luis\Desktop\Projecto - Cópia\VisualOdometry.UI\obj\x86\Release\VisualOdometry.UI.csprojResolveAssemblyReference.cache
+C:\Users\Luis\Desktop\Projecto - Cópia\VisualOdometry.UI\obj\x86\Release\VisualOdometry.UI.MapForm.resources
+C:\Users\Luis\Desktop\Projecto - Cópia\VisualOdometry.UI\obj\x86\Release\VisualOdometry.UI.MainForm.resources
+C:\Users\Luis\Desktop\Projecto - Cópia\VisualOdometry.UI\obj\x86\Release\VisualOdometry.UI.Properties.Resources.resources
+C:\Users\Luis\Desktop\Projecto - Cópia\VisualOdometry.UI\obj\x86\Release\VisualOdometry.UI.csproj.GenerateResource.Cache
+C:\Users\Luis\Desktop\Projecto - Cópia\VisualOdometry.UI\obj\x86\Release\VisualOdometry.UI.exe
+C:\Users\Luis\Desktop\Projecto - Cópia\VisualOdometry.UI\obj\x86\Release\VisualOdometry.UI.pdb
+C:\Users\Luis\Desktop\Projecto Nº44\VisualOdometry.UI\bin\Release\VisualOdometry.UI.exe.config
+C:\Users\Luis\Desktop\Projecto Nº44\VisualOdometry.UI\obj\x86\Release\VisualOdometry.UI.exe
+C:\Users\Luis\Desktop\Projecto Nº44\VisualOdometry.UI\obj\x86\Release\VisualOdometry.UI.pdb
+C:\Users\Luis\Desktop\Projecto Nº44\VisualOdometry.UI\bin\Release\opencv_core290.dll
+C:\Users\Luis\Desktop\Projecto Nº44\VisualOdometry.UI\bin\Release\opencv_imgproc290.dll
+C:\Users\Luis\Desktop\Projecto Nº44\VisualOdometry.UI\bin\Release\VisualOdometry.UI.exe
+C:\Users\Luis\Desktop\Projecto Nº44\VisualOdometry.UI\bin\Release\VisualOdometry.UI.pdb
+C:\Users\Luis\Desktop\Projecto Nº44\VisualOdometry.UI\bin\Release\AsyncBridge.dll
+C:\Users\Luis\Desktop\Projecto Nº44\VisualOdometry.UI\bin\Release\Emgu.CV.dll
+C:\Users\Luis\Desktop\Projecto Nº44\VisualOdometry.UI\bin\Release\Emgu.CV.UI.dll
+C:\Users\Luis\Desktop\Projecto Nº44\VisualOdometry.UI\bin\Release\Emgu.Util.dll
+C:\Users\Luis\Desktop\Projecto Nº44\VisualOdometry.UI\bin\Release\Lego.Ev3.Desktop.dll
+C:\Users\Luis\Desktop\Projecto Nº44\VisualOdometry.UI\bin\Release\VisualOdometry.dll
+C:\Users\Luis\Desktop\Projecto Nº44\VisualOdometry.UI\bin\Release\ZedGraph.dll
+C:\Users\Luis\Desktop\Projecto Nº44\VisualOdometry.UI\bin\Release\CameraCalibrator.Support.pdb
+C:\Users\Luis\Desktop\Projecto Nº44\VisualOdometry.UI\bin\Release\Emgu.CV.pdb
+C:\Users\Luis\Desktop\Projecto Nº44\VisualOdometry.UI\bin\Release\Emgu.CV.xml
+C:\Users\Luis\Desktop\Projecto Nº44\VisualOdometry.UI\bin\Release\Emgu.CV.UI.pdb
+C:\Users\Luis\Desktop\Projecto Nº44\VisualOdometry.UI\bin\Release\Emgu.CV.UI.xml
+C:\Users\Luis\Desktop\Projecto Nº44\VisualOdometry.UI\bin\Release\Emgu.Util.pdb
+C:\Users\Luis\Desktop\Projecto Nº44\VisualOdometry.UI\bin\Release\Emgu.Util.xml
+C:\Users\Luis\Desktop\Projecto Nº44\VisualOdometry.UI\bin\Release\Lego.Ev3.Desktop.xml
+C:\Users\Luis\Desktop\Projecto Nº44\VisualOdometry.UI\bin\Release\VisualOdometry.pdb
+C:\Users\Luis\Desktop\Projecto Nº44\VisualOdometry.UI\bin\Release\ZedGraph.xml
+C:\Users\Luis\Desktop\Projecto Nº44\VisualOdometry.UI\bin\Release\zh-CN\Emgu.CV.UI.resources.dll
+C:\Users\Luis\Desktop\Projecto Nº44\VisualOdometry.UI\bin\Release\zh-CN\ZedGraph.resources.dll
+C:\Users\Luis\Desktop\Projecto Nº44\VisualOdometry.UI\obj\x86\Release\VisualOdometry.UI.csprojResolveAssemblyReference.cache
+C:\Users\Luis\Desktop\Projecto Nº44\VisualOdometry.UI\obj\x86\Release\VisualOdometry.UI.MapForm.resources
+C:\Users\Luis\Desktop\Projecto Nº44\VisualOdometry.UI\obj\x86\Release\VisualOdometry.UI.MainForm.resources
+C:\Users\Luis\Desktop\Projecto Nº44\VisualOdometry.UI\obj\x86\Release\VisualOdometry.UI.Properties.Resources.resources
+C:\Users\Luis\Desktop\Projecto Nº44\VisualOdometry.UI\obj\x86\Release\VisualOdometry.UI.csproj.GenerateResource.Cache

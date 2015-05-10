@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>AsyncBridge</id>
+    <version>0.1.1</version>
+    <title>AsyncBridge - Async Support for .NET 4.0</title>
+    <authors>Daniel Grunwald, Omer Mor, Alex Davies</authors>
+    <owners>Daniel Grunwald, Omer Mor, Alex Davies</owners>
+    <projectUrl>http://omermor.github.com/AsyncBridge/</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Adds the new C#5 async features for .NET 4 projects</description>
+    <copyright>Copyright 2012</copyright>
+    <tags>async bridge C# C#5 .NET35</tags>
+  </metadata>
+</package>
